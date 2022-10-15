@@ -224,7 +224,7 @@ font-size: 95%;
 .dtr-styled-tab .nav-pills .nav-link h4::before { background-color: #6138bd; }
 .dtr-social-title::after { background-color: rgba(17,32,77,0.15); }
 /*===== styled heading =====*/
-.dtr-styled-heading::before { background-color: rgba(51, 231, 175, .1); }
+.dtr-styled-heading::before { background-color: rgba(114, 51, 231, 0.1); }
 .dtr-styled-heading p { color: rgba(17,32,77,0.35); }
 /*===== testimonial =====*/
 .dtr-client-job { color: rgba(17,32,77,0.3); }
